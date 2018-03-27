@@ -1,6 +1,6 @@
 
-def my_square(y):
-	return(y ** 2)
+def my_square(w):
+	return(w ** 2)
 print(my_square(5))
 
 
