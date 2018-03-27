@@ -1,4 +1,4 @@
-def my_square(x):
-	return(x ** 2)
+def my_square(y):
+	return(y ** 2)
 
-print(my_square(3333))
+print(my_square(5))
